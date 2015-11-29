@@ -203,7 +203,7 @@ svg:not(:root) {
 figure {
   margin: 1em 40px;
 }
-  
+
 /**
  * Address differences between Firefox and other browsers.
  */
@@ -992,16 +992,12 @@ header {
   width: 555px;
   height: 400px;
   float: right;
-  margin-top: -130px;
+  margin-top: -180px;
   background: #ffffff;
   color: #8d8f92;
   text-transform: uppercase;
   padding: 30px;
   margin-left: 50px;
-  position: absolute;
-  right: 15px;
-  top: -55px;
-  z-index: 1;
 }
 
 .contact-form label {
